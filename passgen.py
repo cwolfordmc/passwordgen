@@ -12,4 +12,4 @@ def gen_pass():
     return password
 
 password = gen_pass()
-print("New Pass:", password)
+print("New Pass: ", password)
